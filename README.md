@@ -1,4 +1,4 @@
-# My blank App
+# A Simple blank App created with framework 7
 
 ## Framework7 CLI Options
 
